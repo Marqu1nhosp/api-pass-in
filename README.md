@@ -17,7 +17,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 - [x] O organizador deve poser visualizar a lista de participantes; 
 - [x] O participante deve poder se inscrever em um evento;
 - [x] O participante deve poder visualizar seu crachá de inscrição;
-- [ ] O participante deve poder realizar check-in no evento;
+- [x] O participante deve poder realizar check-in no evento;
 
 ### Regras de negócio
 
@@ -27,7 +27,7 @@ O sistema fará um scan da credencial do participante para permitir a entrada no
 
 ### Requisitos não-funcionais
 
-- [ ] O check-in no evento será realizado através de um QRCode;
+- [x] O check-in no evento será realizado através de um QRCode;
 
 ## Banco de dados
 
